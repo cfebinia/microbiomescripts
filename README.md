@@ -1,16 +1,19 @@
----
-title: "Febinia 2018 Gut Microbiota of Balinese"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## Introduction
-This is a supplementary material for the publication by Febinia, et al (2018) titled "The Gut Microbiota of Balinese: Patterns of Industrialization, Obesity, and Diet" published in 'insert journal name'. The scripts written in this document will perform data analysis as in the original publication. 
-
-This document was created as an R Markdown document. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+This is a supplementary material for the publication by Febinia, et al (2019) titled "The gut microbiota as markers of population-stratification in disease association studies: a study of Indonesian Balinese" published in TBA<url>. The scripts written in this document will perform data analysis as in the original publication. 
 
 ## Copyright Materials
 All analysis scripts, data, figures, and tables presented in this document are copyrighted by the authors.
+
+## Packages
+
+We used the following R packages:
+
+* [knitr](https://yihui.name/knitr/)
+* [kableExtra](https://haozhu233.github.io/kableExtra/)
+* [dplyr](https://dplyr.tidyverse.org/)
+* [reshape2](https://github.com/hadley/reshape)
+* [ggplot2](http://ggplot2.tidyverse.org/)
+* [vegan](https://github.com/vegandevs/vegan)
+* [mgcv](https://cran.r-project.org/web/packages/mgcv/index.html)
+* [sp](https://edzer.github.io/sp/)
+* [plotrix](https://cran.r-project.org/web/packages/plotrix/index.html)
