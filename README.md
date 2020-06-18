@@ -1,5 +1,5 @@
 ## Introduction
-This is a supplementary material for the publication by Febinia, et al (2019) titled "The gut microbiota as markers of population-stratification in disease association studies: a study of Indonesian Balinese" published in TBA<url>. The scripts written in this document will perform data analysis as in the original publication. 
+This is a supplementary material for the publication by Febinia, et al (2020) titled "Population stratification in the gut microbiota of Indonesian Balinese is associated with transitional lifestyle" published in TBA<url>. The scripts written in this document will perform data analysis as in the original publication. 
 
 ## Copyright Materials
 All analysis scripts, data, figures, and tables presented in this document are copyrighted by the authors.
